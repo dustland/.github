@@ -1,1 +1,5 @@
-# .github
+# Dustland: Pioneering the Realm of Embodied Intelligence
+
+Dustland is a vibrant Github Organization dedicated to the exploration and creation of projects centered around Embodied AI. We are the nexus where the future of human - robot interaction, motion generation, and imitation learning converges.
+Our organization serves as a fertile ground for researchers, developers, and enthusiasts alike, providing a collaborative space to delve into the complexities of Embodied Intelligence. Here, we strive to uncover the secrets of how intelligent systems can understand, adapt, and interact within their physical environments, much like humans do.
+Whether it's devising novel algorithms for seamless human - robot cooperation, generating lifelike motions for virtual or physical agents, or mastering the art of imitation learning to accelerate AI's learning curve, Dustland is at the forefront. We are not just a collection of code repositories; we are a community united by the vision of advancing the boundaries of what Embodied AI can achieve. Join us in this exciting journey of discovery and innovation.
