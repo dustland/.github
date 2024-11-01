@@ -1,4 +1,4 @@
-# Dustland: Open-Source Innovation in Embodied Intelligence
+# Dustland: Innovation Hub of Embodied Intelligence
 
 Dustland is an open-source GitHub organization advancing Embodied Intelligence with a focus on three core areas: human-robot interaction, motion generation, and imitation learning.
 
