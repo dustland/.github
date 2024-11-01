@@ -14,7 +14,7 @@
 
 ## 🤖 About Dustland
 
-Dustland is an engineering-driven organization focused on transforming cutting-edge Embodied AI research into practical, real-world solutions. We bridge the gap between academic breakthroughs and industrial applications, creating tangible value through robust implementation of human-robot interaction, motion generation, and imitation learning technologies.
+Dustland is an engineering-driven organization focused on transforming cutting-edge Embodied Intelligence research into practical, real-world solutions. We bridge the gap between academic breakthroughs and industrial applications, creating tangible value through robust implementation of human-robot interaction, motion generation, and imitation learning technologies.
 
 ## 🌟 Core Engineering Focus
 
