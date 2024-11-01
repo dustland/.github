@@ -1,8 +1,8 @@
 # Dustland
 
-## Innovation Hub of Embodied Intelligence
+## Innovation Hub of Embodied AI
 
-Dustland is an organization advancing Embodied Intelligence with a focus on human-robot interaction (HRI) and imitation learning.
+Dustland is an organization advancing Embodied AI with a focus on human-robot interaction (HRI) and imitation learning.
 
 1.	Human-Robot Interaction: We develop sophisticated algorithms for seamless, intuitive human-robot interfaces. These algorithms interpret gestures, speech, and expressions, enhancing collaboration and improving the interactive experience between humans and robots.
 2.	Motion Generation: Our work enables both virtual and physical entities to produce realistic, functional motions. From the precise movements of industrial robotic arms to the lifelike motions of virtual characters, our models ensure physically plausible and optimized motion generation.
