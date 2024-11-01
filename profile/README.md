@@ -11,3 +11,7 @@ Dustland is an organization advancing Embodied AI with a focus on human-robot in
 At Dustland, we prioritize ethical AI development, committed to standards that respect human welfare and environmental sustainability. Join us in pushing the boundaries of Embodied Intelligence.
 
 Visit us at [https://dustland.ai](https://dustland.ai).
+
+## More
+
+Resource: [Awesome Embodied Intelligence](https://github.com/dustland/awesome-embodied-intelligence)
