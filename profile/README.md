@@ -2,7 +2,7 @@
   
 # 🏜️ Dustland
 
-### Engineering Innovation in Embodied AI
+### Engineering Innovation in Embodied Intelligence
 
 [![Website](https://img.shields.io/badge/Website-dustland.ai-E6B17E?style=for-the-badge)](https://dustland.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Dustland-2C3E50?style=for-the-badge&logo=github)](https://github.com/dustland)
