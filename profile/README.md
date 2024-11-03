@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-dustland.ai-E6B17E?style=for-the-badge)](https://dustland.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Dustland-2C3E50?style=for-the-badge&logo=github)](https://github.com/dustland)
-[![Resources](https://img.shields.io/badge/Resources-Awesome%20Robitics-D35400?style=for-the-badge)](https://github.com/dustland/awesome-robotics)
+[![Resources](https://img.shields.io/badge/Resources-Awesome%20Embodied%20AI-D35400?style=for-the-badge)](https://github.com/dustland/awesome-embodied-ai)
 
 ---
 
@@ -48,7 +48,7 @@ Dustland is an engineering-driven organization focused on transforming cutting-e
 ## 🛠️ Solutions & Resources
 
 - [Website](https://dustland.ai) - Explore our solutions
-- [Awesome Robotics](https://github.com/dustland/awesome-robotics) - Curated implementation resources
+- [Awesome Embodied AI](https://github.com/dustland/awesome-embodied-ai) - Curated implementation resources
 
 <div align="center">
 
