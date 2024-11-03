@@ -47,9 +47,8 @@ Dustland is an engineering-driven organization focused on transforming cutting-e
 
 ## 🛠️ Solutions & Resources
 
-- [Awesome Robotics](https://github.com/dustland/awesome-robotics) - Curated implementation resources
 - [Website](https://dustland.ai) - Explore our solutions
-- [Documentation](https://docs.dustland.ai) - Implementation guides and APIs
+- [Awesome Robotics](https://github.com/dustland/awesome-robotics) - Curated implementation resources
 
 <div align="center">
 
