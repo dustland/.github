@@ -18,48 +18,38 @@ Dustland is an engineering-driven organization focused on transforming cutting-e
 
 ## 🌟 Core Engineering Focus
 
-### 👥 Human-Robot Interaction
-We implement and deploy advanced interaction systems for real-world applications:
-- Production-ready gesture recognition systems
-- Scalable multimodal interfaces
-- Robust communication frameworks
-- Industry-optimized interaction patterns
+### 👥 Human - Robot Interaction: Perception and Expression
 
-### 🔄 Motion Generation
-We transform theoretical concepts into reliable motion systems:
-- Production-grade movement controllers
-- Performance-optimized runtime systems
-- Deployable motion synthesis pipelines
-- Industrial-strength environmental adaptation
+1. **Gesture Recognition**:
+    - High - accuracy recognition in various settings, using perception retargeting for different user actions.
+    - Optimized for seamless real - world integration to enhance expression understanding.
+2. **Multimodal Interfaces**:
+    - Accommodate multiple input/output modes for better perception.
+    - Scale with application complexity, using expression - based retargeting for feedback.
+3. **Communication Frameworks**:
+    - Ensure reliable information exchange with robust perception models.
+    - Withstand environment challenges, enabling clear expression transmission.
+4. **Industry - Specific Interaction**:
+    - Tailor to industry needs, focusing on perception of work - related gestures.
+    - Meet safety/workflow standards with proper expression patterns.
 
-### 📚 Imitation Learning
-We build practical learning systems focused on:
-- Efficient skill transfer pipelines
-- Production-ready behavior cloning
-- Scalable learning frameworks
-- Real-world deployment optimization
+### 📚 Imitation Learning in Motion: Manipulation in the Physical World
 
-## 🎯 Our Approach
-
-At Dustland, we prioritize:
-- 🛠️ Engineering excellence
-- ⚡ Performance optimization
-- 🔄 Rapid iteration
-- 📊 Measurable impact
+1. **Movement Control**:
+    - Generate precise/stable movements, using motion retargeting for different robots.
+    - Consider physical limits for effective manipulation.
+2. **Skill Transfer**:
+    - Rapid skill transfer between scenarios with manipulation - focused retargeting.
+    - Enable quick adaptation for physical world tasks.
+3. **Behavior Cloning**:
+    - Reproduce complex behaviors accurately with cloning retargeting.
+    - Integrate into applications for physical manipulation tasks.
 
 ## 🛠️ Solutions & Resources
 
 - [Awesome Robotics](https://github.com/dustland/awesome-robotics) - Curated implementation resources
 - [Website](https://dustland.ai) - Explore our solutions
 - [Documentation](https://docs.dustland.ai) - Implementation guides and APIs
-
-## 🤝 Collaborate With Us
-
-We're looking to partner with organizations and individuals who share our vision of bringing embodied AI to real-world applications:
-
-- 🔧 Explore our [implementation toolkits](https://github.com/dustland)
-- 💡 Partner on solutions
-- 🤖 Join our developer community
 
 <div align="center">
 
