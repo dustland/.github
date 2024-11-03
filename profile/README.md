@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-dustland.ai-E6B17E?style=for-the-badge)](https://dustland.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Dustland-2C3E50?style=for-the-badge&logo=github)](https://github.com/dustland)
-[![Resources](https://img.shields.io/badge/Resources-Awesome%20Embodied%20Intelligence-D35400?style=for-the-badge)](https://github.com/dustland/awesome-embodied-intelligence)
+[![Resources](https://img.shields.io/badge/Resources-Awesome%20Robitics-D35400?style=for-the-badge)](https://github.com/dustland/awesome-robotics)
 
 ---
 
@@ -49,7 +49,7 @@ At Dustland, we prioritize:
 
 ## 🛠️ Solutions & Resources
 
-- [Awesome Embodied Intelligence](https://github.com/dustland/awesome-embodied-intelligence) - Curated implementation resources
+- [Awesome Robotics](https://github.com/dustland/awesome-robotics) - Curated implementation resources
 - [Website](https://dustland.ai) - Explore our solutions
 - [Documentation](https://docs.dustland.ai) - Implementation guides and APIs
 
