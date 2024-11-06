@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🏜️ Dustland
+# Dustland
 
 ### Engineering Embodied Intelligence
 
