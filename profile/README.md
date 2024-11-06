@@ -45,11 +45,6 @@ Dustland is an engineering-driven organization focused on transforming cutting-e
     - Reproduce complex behaviors accurately with cloning retargeting.
     - Integrate into applications for physical manipulation tasks.
 
-## 🛠️ Solutions & Resources
-
-- [Website](https://dustland.ai) - Explore our solutions
-- [Awesome Embodied AI](https://github.com/dustland/awesome-embodied-ai) - Curated implementation resources
-
 <div align="center">
 
 ---
